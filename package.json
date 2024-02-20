@@ -24,7 +24,7 @@
   },
   "homepage": "http://nakupanda.github.io/bootstrap3-dialog",
   "devDependencies": {
-    "bootstrap": "4.6.0",
+    "bootstrap": "5.3.3",
     "eslint": "7.23.0",
     "gulp": "4.0.2",
     "gulp-clean": "0.4.0",
